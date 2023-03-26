@@ -29,7 +29,6 @@ public class OperationsTest {
         test1 = evaluateInput("2.0x^3");
         test2 = evaluateInput("5.0x^4+3.0x^2");
         result = operations.add(test1, test2);
-        System.out.println(result.getHm());
         HashMap<Integer, Double> testMap = new HashMap<>();
         testMap.put(2, 3.0);
         testMap.put(3, 2.0);

@@ -9,7 +9,8 @@ public class Operations {
 
         for (Integer exponent : p1.getHm().keySet()) {
             if (p2.getHm().containsKey(exponent)) {
-                temp.addMon(exponent, p1.getHm().get(exponent) + p2.getHm().get(exponent));
+                temp.addMon(exponent, p1.getHm().get(exponent)
+                        + p2.getHm().get(exponent));
             } else {
                 temp.addMon(exponent, p1.getHm().get(exponent));
             }

@@ -12,7 +12,7 @@ public class Polynomial{
         hm.put(power ,coefficient);
     }
 
-    public Polynomial(data.Monomial m){
+    public Polynomial(Monomial m){
         hm.put(m.getPower(), m.getCoefficient());
     }
 
