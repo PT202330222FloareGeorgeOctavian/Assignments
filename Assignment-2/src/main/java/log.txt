@@ -1,0 +1,93 @@
+Simulation Time: 0
+Waiting clients: 
+( 0 1 2 ) ( 1 1 2 ) ( 2 3 2 ) ( 3 4 2 ) ( 4 3 2 ) ( 5 1 2 ) ( 6 4 2 ) ( 7 3 2 ) ( 8 1 2 ) ( 9 1 2 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+Server 3 -> 	empty	
+Server 4 -> 	empty	
+Server 5 -> 	empty	
+
+Simulation Time: 1
+Waiting clients: 
+( 2 3 2 ) ( 3 4 2 ) ( 4 3 2 ) ( 6 4 2 ) ( 7 3 2 ) 
+Server 1 -> (9 1 2) 
+Server 2 -> (8 1 2) 
+Server 3 -> (5 1 2) 
+Server 4 -> (1 1 2) 
+Server 5 -> (0 1 2) 
+
+Simulation Time: 2
+Waiting clients: 
+( 2 3 2 ) ( 3 4 2 ) ( 4 3 2 ) ( 6 4 2 ) ( 7 3 2 ) 
+Server 1 -> (9 1 1) 
+Server 2 -> (8 1 1) 
+Server 3 -> (5 1 1) 
+Server 4 -> (1 1 1) 
+Server 5 -> (0 1 1) 
+
+Simulation Time: 3
+Waiting clients: 
+( 3 4 2 ) ( 6 4 2 ) 
+Server 1 -> 	empty	
+Server 2 -> (7 3 2) 
+Server 3 -> 	empty	
+Server 4 -> (4 3 2) 
+Server 5 -> (2 3 2) 
+
+Simulation Time: 4
+Waiting clients: 
+
+Server 1 -> (6 4 2) 
+Server 2 -> (7 3 1) 
+Server 3 -> (3 4 2) 
+Server 4 -> (4 3 1) 
+Server 5 -> (2 3 1) 
+
+Simulation Time: 5
+Waiting clients: 
+
+Server 1 -> (6 4 1) 
+Server 2 -> 	empty	
+Server 3 -> (3 4 1) 
+Server 4 -> 	empty	
+Server 5 -> 	empty	
+
+Simulation Time: 6
+Waiting clients: 
+
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+Server 3 -> 	empty	
+Server 4 -> 	empty	
+Server 5 -> 	empty	
+
+Simulation Time: 7
+Waiting clients: 
+
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+Server 3 -> 	empty	
+Server 4 -> 	empty	
+Server 5 -> 	empty	
+
+Simulation Time: 8
+Waiting clients: 
+
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+Server 3 -> 	empty	
+Server 4 -> 	empty	
+Server 5 -> 	empty	
+
+Simulation Time: 9
+Waiting clients: 
+
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+Server 3 -> 	empty	
+Server 4 -> 	empty	
+Server 5 -> 	empty	
+
+Average Waiting Time: 1.5
+Average Service Time: 15.6
+Peak Hour: 5

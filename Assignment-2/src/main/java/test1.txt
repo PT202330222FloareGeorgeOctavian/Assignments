@@ -1,0 +1,195 @@
+Simulation Time: 0
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) ( 3 4 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 1
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) ( 3 4 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 2
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) ( 3 4 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 3
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) ( 3 4 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 4
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> (3 4 3) 
+
+Simulation Time: 5
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> (3 4 2) 
+
+Simulation Time: 6
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> (3 4 1) 
+
+Simulation Time: 7
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 8
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 9
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 10
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 11
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 12
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 13
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 14
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 15
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 16
+Waiting clients: 
+( 0 17 2 ) ( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 17
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> (0 17 2) 
+
+Simulation Time: 18
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> (0 17 1) 
+
+Simulation Time: 19
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 20
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 21
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 22
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 23
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 24
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 25
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 26
+Waiting clients: 
+( 1 29 3 ) ( 2 27 3 ) 
+Server 1 -> 	empty	
+Server 2 -> 	empty	
+
+Simulation Time: 27
+Waiting clients: 
+( 1 29 3 ) 
+Server 1 -> 	empty	
+Server 2 -> (2 27 3) 
+
+Simulation Time: 28
+Waiting clients: 
+( 1 29 3 ) 
+Server 1 -> 	empty	
+Server 2 -> (2 27 2) 
+
+Simulation Time: 29
+Waiting clients: 
+
+Server 1 -> (1 29 3) 
+Server 2 -> (2 27 1) 
+
+Simulation Time: 30
+Waiting clients: 
+
+Server 1 -> (1 29 2) 
+Server 2 -> 	empty	
+
+Simulation Time: 31
+Waiting clients: 
+
+Server 1 -> (1 29 1) 
+Server 2 -> 	empty	
+
+Average Waiting Time: 1.9090909090909092
+Average Service Time: 2.75
+Peak Hour: 4
